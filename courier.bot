@@ -1,0 +1,16 @@
+{
+  "name": "courier",
+  "padlock": "",
+  "version": "2.0",
+  "services": [
+    
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    }
+  ]
+}
